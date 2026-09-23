@@ -262,6 +262,7 @@ a {
 
   .pricing-card--featured {
     transform: none;
+    margin-top: 3.2rem;
   }
 
   .pricing-card__badge {
